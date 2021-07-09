@@ -1,0 +1,45 @@
+name: "Webnixly"
+title: "Webnixly"
+description: "Scale up your ICT Products with WEB-NIX-LY CONSULTING"
+meta_description: "Scale up your ICT Products with WEB-NIX-LY CONSULTING"
+logo: 'assets/img/logo.png'
+favicon: 'assets/img/logo.png'
+paginate: 12
+baseurl: ''
+url: ''
+email: 'developer@example.com'
+locale: en_US
+seo:
+  keywords: 'Webnixly'
+  site_name: Webnixly
+og:
+  type: "website"
+
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+        
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
