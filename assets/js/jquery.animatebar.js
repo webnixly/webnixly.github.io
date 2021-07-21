@@ -1,7 +1,7 @@
 /*!
  * jquery.animatebar.js 1.1
  *
- * Copyright 2018, 5Studios.net https://www.5studios.net
+ * Copyright 2018, 5Studios.net https://www.webnixly.com
  * Released under the GPL v2 License
  *
  * Date: Sep 13, 2018

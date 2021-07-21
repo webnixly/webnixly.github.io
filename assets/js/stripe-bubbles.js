@@ -2,7 +2,7 @@
  * Webnixly - HTML Startup Template, v3.0.0
  * Horizontal random bubbles variations.
  * Copyright © 2021 5Studios.net
- * https://5studios.net
+ * https://webnixly.com
  * Credits to: https://codepen.io/lokesh
  */
 

@@ -2,7 +2,7 @@
  * Webnixly - HTML Startup Template, v1.1.8
  * Stripe menu.
  * Copyright © 2019 5Studios.net
- * https://5studios.net
+ * https://webnixly.com
  */
 
 "use strict";
